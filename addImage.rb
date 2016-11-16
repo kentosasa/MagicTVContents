@@ -2,11 +2,11 @@ require 'json'
 require 'pry'
 
 def add_type(json)
-  if json["children"]
-    json["type"] = "menu"
-  else
-    json["type"] = "web"
-  end
+  # if json["children"]
+  #   json["type"] = "menu"
+  # else
+  #   json["type"] = "web"
+  # end
   json["image"] = ARGV[1]
   return json
 end

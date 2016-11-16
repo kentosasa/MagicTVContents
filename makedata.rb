@@ -7,7 +7,9 @@ require 'pry'
   "Music/music.json",
   "Streaming/streaming.json",
   "Ted/ted.json",
-  "Tv/tv.json"
+  "Tv/tv.json",
+  "Door/door.json",
+  "Light/light.json"
  ]
  data = {}
  data["menu"] = []
