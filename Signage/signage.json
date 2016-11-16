@@ -1,0 +1,26 @@
+{
+  "title": "サイネージ",
+  "type": "menu",
+  "image": "https://gyazo.com/1eff2b0fb202e02c317a0f6e7db18276.png",
+  "description": "研究室の照明",
+  "children": [
+    {
+      "title": "ネット攻撃",
+      "type": "web",
+      "url": "https://cybermap.kaspersky.com/",
+      "image": "https://gyazo.com/1eff2b0fb202e02c317a0f6e7db18276.png"
+    },
+    {
+      "title": "わかるらんど",
+      "type": "web",
+      "url": "http://memo.masui.org/wakaru",
+      "image": "https://gyazo.com/1eff2b0fb202e02c317a0f6e7db18276.png"
+    },
+    {
+      "title": "地球の風",
+      "type": "web",
+      "url": "https://earth.nullschool.net/jp/#current/wind/surface/level/orthographic=130.50,38.14,349/loc=-51.635,1.882",
+      "image": "https://gyazo.com/1eff2b0fb202e02c317a0f6e7db18276.png"
+    }
+  ]
+}

@@ -9,6 +9,7 @@ require 'pry'
   "Comic/comic.json",
   "Streaming/streaming.json",
   "Ted/ted.json",
+  "Signage/signage.json",
   "Movie/movie.json"
  ]
  data = {}
