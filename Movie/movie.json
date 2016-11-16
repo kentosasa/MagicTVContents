@@ -1,8 +1,8 @@
 {
-  "title": "ストリーミング",
+  "title": "映画",
   "type": "menu",
-  "image": "https://gyazo.com/5b996eacbaa70134522b0a018737fe4b.png",
-  "description": "離れた場所のリアルタイム映像",
+  "image": "https://gyazo.com/5f06608ba4f376bdf1dd91e5b1576df3.png",
+  "description": "話題の映画",
   "children": [
     {
       "title": "研究室の映像",
