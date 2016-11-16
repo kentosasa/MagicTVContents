@@ -5,10 +5,41 @@
   "description": "最近人気の曲",
   "children": [
     {
-      "title": "研究室の映像",
-      "type": "web",
-      "url": "/contents/delta.html",
-      "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+      "title": "RADWIMPS",
+      "type": "menu",
+      "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png",
+      "children": [
+        {
+          "title": "前前前世",
+          "type": "web",
+          "url": "https://www.youtube.com/v/PDSkFeMVNFs&autoplay=1",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "君と羊と青",
+          "type": "web",
+          "url": "https://www.youtube.com/v/K1u_MwT6zV8&autoplay=1",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "ふたりごと",
+          "type": "web",
+          "url": "https://www.youtube.com/v/gmLXEmCExIE&autoplay=1",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "有心論",
+          "type": "web",
+          "url": "https://www.youtube.com/v/c2y8Ba3WwPY&autoplay=1",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "五月の蝿",
+          "type": "web",
+          "url": "https://www.youtube.com/v/hoyOjMIunkM&autoplay=1",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        }
+      ]
     },
     {
       "title": "スクランブル交差点の映像",
