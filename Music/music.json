@@ -12,46 +12,170 @@
         {
           "title": "前前前世",
           "type": "web",
-          "url": "https://www.youtube.com/v/PDSkFeMVNFs&autoplay=1",
+          "url": "https://www.youtube.com/embed/PDSkFeMVNFs?autoplay=true",
           "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
         },
         {
           "title": "君と羊と青",
           "type": "web",
-          "url": "https://www.youtube.com/v/K1u_MwT6zV8&autoplay=1",
+          "url": "https://www.youtube.com/embed/K1u_MwT6zV8?autoplay=true",
           "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
         },
         {
           "title": "ふたりごと",
           "type": "web",
-          "url": "https://www.youtube.com/v/gmLXEmCExIE&autoplay=1",
+          "url": "https://www.youtube.com/embed/gmLXEmCExIE?autoplay=true",
           "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
         },
         {
           "title": "有心論",
           "type": "web",
-          "url": "https://www.youtube.com/v/c2y8Ba3WwPY&autoplay=1",
+          "url": "https://www.youtube.com/embed/c2y8Ba3WwPY?autoplay=true",
           "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
         },
         {
           "title": "五月の蝿",
           "type": "web",
-          "url": "https://www.youtube.com/v/hoyOjMIunkM&autoplay=1",
+          "url": "https://www.youtube.com/embed/hoyOjMIunkM?autoplay=true",
           "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
         }
       ]
     },
     {
-      "title": "スクランブル交差点の映像",
-      "type": "web",
-      "url": "https://www.youtube.com/v/6q36pnzcw70&autoplay=1",
-      "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+      "title": "星野源",
+      "type": "menu",
+      "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png",
+      "children": [
+        {
+          "title": "恋",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/jhOVibLEDhA?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "時よ",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/LGG8grKZhxY?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "夢の外へ",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/k75GLjixDAs?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "SUN",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/7gcCRAl58u4?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        }
+      ]
     },
     {
-      "title": "宇宙映像",
-      "type": "web",
-      "url": "https://www.youtube.com/embed/J9P-n-yvJy4?autoplay=true",
-      "image": "https://gyazo.com/8559f9c14447e04c702b84090cfa5e96.png"
+      "title": "back number",
+      "type": "menu",
+      "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png",
+      "children": [
+        {
+          "title": "ハッピーエンド",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/hzWDXge2ANM?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "高嶺の花子さん",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/LgLMA1MR7iE?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "クリスマスソング",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/JfgOjtq440o?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "花束",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/hmAaBAZtTiY?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        }
+      ]
+    },
+    {
+      "title": "サカナクション",
+      "type": "menu",
+      "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png",
+      "children": [
+        {
+          "title": "多分、風。",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/8lx0vLTH_yg?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "新宝島",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/LIlZCmETvsY?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "夜の踊り子",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/2I25AFSBm2g?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "バッハの旋律を夜に聴いたせいです。",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/DHMhz2Adois?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "アルクアラウンド",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/cADu9rtlZGQ?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        }
+      ]
+    },
+    {
+      "title": "倖田來未",
+      "type": "menu",
+      "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png",
+      "children": [
+        {
+          "title": "Physical thing",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/Do6YTMXHSj0?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "ECSTASY",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/qYJKk3cJ9nk?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "今すぐ欲しい",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/jdWayMO6d44?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "キューティーハニー",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/c2y8Ba3WwPY?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        },
+        {
+          "title": "五月の蝿",
+          "type": "web",
+          "url": "https://www.youtube.com/embed/dKpUtUPWNL0?autoplay=true",
+          "image": "https://gyazo.com/ad89b9bb5dd7668af625a23355a39cc8.png"
+        }
+      ]
     }
   ]
 }
