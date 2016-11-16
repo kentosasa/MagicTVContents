@@ -1,0 +1,38 @@
+body {
+  position: relative;
+}
+#contents {
+  padding: 32px;
+}
+.color {
+  width: 100%;
+  background: #007BAC;
+  height: 320px;
+  z-index: -1;
+  position: absolute;
+}
+.item {
+  transition-duration: 2s;
+  transition: all 2000ms 0s ease;
+  min-height: 420px;
+}
+.card {
+  max-width: 960px;
+  margin: 0 auto;
+  margin-bottom: 32px;
+}
+.item.hide {
+  transition-duration: 2s;
+  min-height: 0;
+  margin-bottom: 0px;
+  border: none;
+  height: 0px;
+  color: rgba(0,0,0,0);
+}
+h4 {
+  font-size: 32px;
+}
+p.card-text {
+  padding-top: 32px;
+  font-size: 24px;
+}
