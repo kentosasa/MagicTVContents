@@ -1,9 +1,9 @@
 var request = require('superagent')
-var request = window.superagent;
 var IPURL = 'https://www.meethue.com/api/nupnp';
 var hueapi = ''; //
 var USERNAME = '1234567890';
 var flag = true;
+var intervalListener
 
 
 function createEndpoint(ip){
@@ -26,10 +26,11 @@ function ctrlHue(id, flag){
     .send({on: flag})
     .set('Accept', 'application/json')
     .end(function(err, res){
+      window.clearInterval(intervalListener);
       console.log(res.body[0]);
     });
 }
 
-setInterval(function(){
+intervalListener = setInterval(function(){
   ctrlHue(1, flag);
 },1000);

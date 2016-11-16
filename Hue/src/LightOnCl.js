@@ -1,5 +1,4 @@
 var request = require('superagent')
-var request = window.superagent;
 var IPURL = 'https://www.meethue.com/api/nupnp';
 var hueapi = ''; //
 var USERNAME = '1234567890';
