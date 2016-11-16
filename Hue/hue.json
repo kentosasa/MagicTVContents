@@ -1,0 +1,50 @@
+{
+  "title": "Hue",
+  "type": "menu",
+  "image": "https://gyazo.com/8559f9c14447e04c702b84090cfa5e96.png",
+  "description": "照明の操作",
+  "children": [
+    {
+      "title": "照明を消す",
+      "type": "js",
+      "url": "http://localhost:1126/contents/hue/LightOff.js",
+      "image": "https://gyazo.com/8559f9c14447e04c702b84090cfa5e96.png"
+    },
+    {
+      "title": "照明をつける",
+      "type": "js",
+      "url": "http://localhost:1126/contents/hue/LightOn.js",
+      "image": "https://gyazo.com/8559f9c14447e04c702b84090cfa5e96.png"
+    },
+    {
+      "title": "照明を青にする",
+      "type": "js",
+      "url": "http://localhost:1126/contents/hue/LightOnBlue.js",
+      "image": "https://gyazo.com/8559f9c14447e04c702b84090cfa5e96.png"
+    },
+    {
+      "title": "照明を緑にする",
+      "type": "js",
+      "url": "http://localhost:1126/contents/hue/LightOnGreen.js",
+      "image": "https://gyazo.com/8559f9c14447e04c702b84090cfa5e96.png"
+    },
+    {
+      "title": "照明をピンクにする",
+      "type": "js",
+      "url": "http://localhost:1126/contents/hue/LightOnPink.js",
+      "image": "https://gyazo.com/8559f9c14447e04c702b84090cfa5e96.png"
+    },
+    {
+      "title": "照明を赤にする",
+      "type": "js",
+      "url": "http://localhost:1126/contents/hue/LightOnRed.js",
+      "image": "https://gyazo.com/8559f9c14447e04c702b84090cfa5e96.png"
+    },
+    {
+      "title": "照明を黄色にする",
+      "type": "js",
+      "url": "http://localhost:1126/contents/hue/LightOnYellow.js",
+      "image": "https://gyazo.com/8559f9c14447e04c702b84090cfa5e96.png"
+    }
+ ]
+}

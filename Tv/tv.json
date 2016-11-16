@@ -1,0 +1,50 @@
+{
+  "title": "テレビ",
+  "type": "menu",
+  "image": "https://gyazo.com/e14f0965a59b767b01b2bee3e4aabbd7.png",
+  "description": "AbemaTV",
+  "children": [
+    {
+      "title": "News",
+      "type": "web",
+      "url": "https://abema.tv/now-on-air/abema-news",
+      "image": "https://gyazo.com/e14f0965a59b767b01b2bee3e4aabbd7.png"
+    },
+    {
+      "title": "海外ドラマ",
+      "type": "web",
+      "url": "https://abema.tv/now-on-air/foreign-drama",
+      "image": "https://gyazo.com/e14f0965a59b767b01b2bee3e4aabbd7.png"
+    },
+    {
+      "title": "アニメ",
+      "type": "web",
+      "url": "https://abema.tv/now-on-air/anime24",
+      "image": "https://gyazo.com/e14f0965a59b767b01b2bee3e4aabbd7.png"
+    },
+    {
+      "title": "ドキュメンタリー",
+      "type": "web",
+      "url": "https://abema.tv/now-on-air/documentary",
+      "image": "https://gyazo.com/e14f0965a59b767b01b2bee3e4aabbd7.png"
+    },
+    {
+      "title": "ドキュメンタリー",
+      "type": "web",
+      "url": "https://abema.tv/now-on-air/documentary",
+      "image": "https://gyazo.com/e14f0965a59b767b01b2bee3e4aabbd7.png"
+    },
+    {
+      "title": "バラエティ",
+      "type": "web",
+      "url": "https://abema.tv/now-on-air/variety",
+      "image": "https://gyazo.com/e14f0965a59b767b01b2bee3e4aabbd7.png"
+    },
+    {
+      "title": "スポーツ",
+      "type": "web",
+      "url": "https://abema.tv/now-on-air/world-sports",
+      "image": "https://gyazo.com/e14f0965a59b767b01b2bee3e4aabbd7.png"
+    }
+  ]
+}
