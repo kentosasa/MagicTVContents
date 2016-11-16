@@ -1,15 +1,15 @@
 require 'json'
 require 'pry'
  urls = [
-  "Comic/comic.json",
-  "Hue/hue.json",
-  "Movie/movie.json",
   "Music/music.json",
+  "Tv/tv.json",
+  "Hue/hue.json",
+  "Door/door.json",
+  "Light/light.json",
+  "Comic/comic.json",
   "Streaming/streaming.json",
   "Ted/ted.json",
-  "Tv/tv.json",
-  "Door/door.json",
-  "Light/light.json"
+  "Movie/movie.json"
  ]
  data = {}
  data["menu"] = []
