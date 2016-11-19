@@ -97,7 +97,7 @@ module.exports=[
   }
 ]
 },{}],2:[function(require,module,exports){
-let entries = require('./news.json')
+let entries = require('./topic.json')
 let count = 0
 for(let entry of entries) {
   $("#contents").append("<div id='" + count + "' class='item'><div class='card card-block'>"+
@@ -109,11 +109,18 @@ for(let entry of entries) {
 }
 count = 0
 
+speechSynthesis.cancel()
 let synthesis = new SpeechSynthesisUtterance()
 synthesis.lang = 'ja-JP'
-synthesis.rate = 1.3
+synthesis.rate = 1.5
 
-synthesis.onend = () => {
+// synthesis.addEventListener('end', function () {
+//   slide()
+//   play(entries[count])
+// })
+
+synthesis.onend = function (event) {
+  console.log("end")
   slide()
   play(entries[count])
 }
@@ -133,4 +140,4 @@ let slide = function() {
   count++
 }
 play(entries[0])
-},{"./news.json":1}]},{},[2]);
+},{"./topic.json":1}]},{},[2]);

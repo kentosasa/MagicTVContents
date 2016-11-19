@@ -6,11 +6,11 @@ require 'pry'
   "Hue/hue.json",
   "Door/door.json",
   "Light/light.json",
-  "Comic/comic.json",
+  # "Comic/comic.json",
   "Streaming/streaming.json",
   "Ted/ted.json",
-  "Signage/signage.json",
-  "Movie/movie.json"
+  # "Movie/movie.json",
+  "Signage/signage.json"
  ]
  data = {}
  data["menu"] = []
